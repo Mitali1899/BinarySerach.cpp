@@ -1,5 +1,5 @@
 # BinarySerach.cpp
-Added for Hacktober Fest
+This File contain the CPP file for the Binary Search
 
 
 // C++ program to implement recursive Binary Search
